@@ -15,4 +15,8 @@ Introducing the Team Blitz 2083 Super Pit! Everything here is made for cutting a
 - model-pics contains pictures of the Super Pit for people who don't have SOLIDWORKS on their computer
 
 ### For CAD People
-- 
+- You will notice parts like "Tongue Extrusion Alt 1"
+  - These are so the assemblies don't make a bunch of errors when rebuilding
+- Some designs were too detail-intensive to do from scratch, so you'll see lots of boxes with the same overall dimensions and the name carved out
+- If you zoom in to where the extrusions meet, there will be gaps
+  - The small gaps actually makes the extrusions cuttable
