@@ -1,5 +1,7 @@
 # 2083-super-pit
 Here is everything I made for the Team Blitz Super Pit!
+If you want to get these files on your computer, download git and run this in your computer's terminal:
+```git clone https://github.com/NaboriRuta/2083-super-pit```
 #### Design by Shelton Adams
 
 ## Some important things to note:
