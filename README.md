@@ -1,5 +1,5 @@
 # 2083-super-pit
-Introducing the Team Blitz 2083 Super Pit! Everything here is made for cutting and building DIY-style.
+## Design by Shelton Adams
 
 ## Some important things to note:
 - Parts modeled can all be found at [The DIY Road Cases Store](https://diyroadcasesstore.com)
@@ -20,3 +20,5 @@ Introducing the Team Blitz 2083 Super Pit! Everything here is made for cutting a
 - Some designs were too detail-intensive to do from scratch, so you'll see lots of boxes with the same overall dimensions and the name carved out
 - If you zoom in to where the extrusions meet, there will be gaps
   - The small gaps actually makes the extrusions cuttable
+
+## If you have any questions, feel free to message me via Discord (@naboriruta)
