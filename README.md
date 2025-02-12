@@ -1,5 +1,5 @@
 # 2083-super-pit
-## Design by Shelton Adams
+#### Design by Shelton Adams
 
 ## Some important things to note:
 - Parts modeled can all be found at [The DIY Road Cases Store](https://diyroadcasesstore.com)
