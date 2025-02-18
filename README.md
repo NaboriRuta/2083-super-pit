@@ -26,5 +26,8 @@ git clone https://github.com/NaboriRuta/2083-super-pit
 - Due to all dimensions being rounded down to the nearest 1/16", there are gaps between:
   - Edges where aluminum extrusions meet
   - the pit pieces themselves when the full assembly is in its closed state
+- Each piece does need to be changed individually. Adding global variables to dimensions unfortunately breaks everything
+- If you're changing the design to be less than 4' tall/wide, the back wall of the front half no longer needs to be two separate pieces
+- Cut Lists can be changed to fit pieces differently, if you're changing the CAD at all
 
 #### If you have any questions, feel free to message me via Discord (@naboriruta)
