@@ -10,7 +10,7 @@ git clone https://github.com/NaboriRuta/2083-super-pit
 ## Some important things to note:
 - Parts modeled can all be found at [The DIY Road Cases Store](https://diyroadcasesstore.com)
   - Some dimensions weren't included, but everything is as accurate as possible
-  - I'd suggest looking at [Penn-Elcom](https://penn-elcom.com) for more parts, as the DIY Road Cases Store gets basically everything from them
+  - I'd suggest looking at [Penn-Elcom](https://penn-elcom.com) for more parts because they have more parts and the DIY Road Cases Store gets basically everything from them
 - The plywood our team used is 15/32" thick
 - Dimensions are rounded down to the nearest 1/16"
 
