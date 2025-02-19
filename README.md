@@ -13,6 +13,7 @@ git clone https://github.com/NaboriRuta/2083-super-pit
   - I'd suggest looking at [Penn-Elcom](https://penn-elcom.com) for more parts because they have more parts and the DIY Road Cases Store gets basically everything from them
 - The plywood our team used is 15/32" thick
 - Dimensions are rounded down to the nearest 1/16"
+- When it comes to placements of tongue and groove extrusions: All tongue extrusions are on the main bottom compartment and groove extrusions are everywhere else
 
 ## Quick File Description
 - plywood-cut-lists contains a cut list of how the pieces are cut out initially as well as what the finished pieces will end up looking like
