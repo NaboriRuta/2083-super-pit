@@ -17,8 +17,9 @@ git clone https://github.com/NaboriRuta/2083-super-pit
 
 ## Quick File Description
 - plywood-cut-lists contains a cut list of how the pieces are cut out initially as well as what the finished pieces will end up looking like
-- cad-files contains all of the SOLIDWORKS CAD files used
-- model-pics contains pictures of the Super Pit for people who don't have SOLIDWORKS on their computer
+- swx-files contains all of the SOLIDWORKS CAD files used
+- step-files contains the main sections of the SOLIDWORKS files, just in .STEP format so it's compatible with all CAD software
+- model-pics contains pictures of the Super Pit for people who don't have SOLIDWORKS or any form of CAD on their computer
 
 ## For CAD People
 - You will notice parts like "Tongue Extrusion Alt 1"
