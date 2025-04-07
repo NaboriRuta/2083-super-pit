@@ -1,9 +1,14 @@
 # 2083-super-pit
 Here is everything I made for the Team Blitz Super Pit!
 
-If you want to get these files on your computer, download git and run this in your computer's terminal:
+If you want to get these files on your computer, download git and run one of these two commands in your computer's terminal:
+- For SOLIDWORKS:
 ```
-git clone https://github.com/NaboriRuta/2083-super-pit
+git clone https://github.com/NaboriRuta/2083-super-pit/swx-files
+```
+- For all other CAD:
+```
+git clone https://github.com/NaboriRuta/2083-super-pit/step-files
 ```
 #### Design by Shelton Adams
 
