@@ -1,14 +1,9 @@
 # 2083-super-pit
 Here is everything I made for the Team Blitz Super Pit!
 
-If you want to get these files on your computer, download git and run one of these two commands in your computer's terminal:
-- For SOLIDWORKS:
+If you want to get these files on your computer, download git and run this command in your computer's terminal:
 ```
-git clone https://github.com/NaboriRuta/2083-super-pit/swx-files
-```
-- For all other CAD:
-```
-git clone https://github.com/NaboriRuta/2083-super-pit/step-files
+git clone https://github.com/NaboriRuta/2083-super-pit/
 ```
 #### Design by Shelton Adams
 
@@ -37,4 +32,4 @@ git clone https://github.com/NaboriRuta/2083-super-pit/step-files
 - If you're changing the design to be less than 4' tall/wide, the back wall of the front half no longer needs to be two separate pieces
 - Cut Lists can be changed to fit pieces differently, if you're changing the CAD at all
 
-#### If you have any questions, feel free to message me via Discord (@naboriruta)
+#### If you have any questions, feel free to message me via Discord (@naboriruta) or respond to the Delphi Post (Not Out Yet)
