@@ -31,4 +31,4 @@ git clone https://github.com/NaboriRuta/2083-super-pit/
 - If you're changing the design to be less than 4' tall/wide, the back wall of the front half no longer needs to be two separate pieces
 - Cut Lists can be changed to fit pieces differently, if you're changing the CAD at all
 
-#### If you have any questions, feel free to message me via Discord (@naboriruta) or respond to the Delphi Post (Not Out Yet)
+#### If you have any questions, feel free to respond to the Delphi Post (Not Out Yet) or message me via Discord (@naboriruta)
