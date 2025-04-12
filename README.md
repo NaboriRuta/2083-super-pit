@@ -30,5 +30,7 @@ git clone https://github.com/NaboriRuta/2083-super-pit/
 - Each piece does need to be changed individually. Adding global variables to dimensions unfortunately breaks everything
 - If you're changing the design to be less than 4' tall/wide, the back wall of the front half no longer needs to be two separate pieces
 - Cut Lists can be changed to fit pieces differently, if you're changing the CAD at all
+- step-files doesn't contain all of the files used due to the nature of how step files work
+  - Separate documents can be made for the individual parts outside of the assembly
 
 #### If you have any questions, feel free to respond to the Delphi Post (Not Out Yet) or message me via Discord (@naboriruta)
