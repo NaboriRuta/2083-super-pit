@@ -33,4 +33,4 @@ git clone https://github.com/NaboriRuta/2083-super-pit/
 - step-files doesn't contain all of the files used due to the nature of how step files work
   - Separate documents can be made for the individual parts outside of the assembly
 
-#### If you have any questions, feel free to respond to the [Delphi Post] (Not Out Yet) or message me via Discord (@naboriruta)
+#### If you have any questions, feel free to respond to the [Delphi Post](./) (Not Out Yet) or message me via Discord (@naboriruta)
