@@ -1,10 +1,9 @@
 # 2083-super-pit
 #### Design by Shelton Adams
-#### To download these files, download git and run this command in your computer's terminal:
-```
-git clone https://github.com/NaboriRuta/2083-super-pit/
-```
+#### To download these files, download git and run one of these commands in your computer's terminal:
 
+1. For SOLIDWORKS Files: ```git clone https://github.com/NaboriRuta/2083-super-pit/tree/swx```
+2. For STEP Files: ```git clone https://github.com/NaboriRuta/2083-super-pit/tree/step```
 
 ## Some important things to note:
 - Parts modeled can all be found at [The DIY Road Cases Store](https://diyroadcasesstore.com)
